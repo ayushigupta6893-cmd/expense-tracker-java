@@ -16,5 +16,6 @@ This is a Java-based web application developed using JSP and Servlets that allow
 - Servlets
 - Hibernate
 - MySQL
+- Maven
   
   
